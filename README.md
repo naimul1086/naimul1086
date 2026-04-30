@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300"/>
 ##  About Me
 
  Passionate Android Developer who builds **scalable, production-ready mobile applications**
@@ -28,6 +28,7 @@
 -  Fun fact: *I don’t just write code — I think in commits*  
 
 ---
+
 
 ## 🛠️ Tech Stack
 
@@ -152,4 +153,8 @@
 Clean code, clean architecture — one commit at a time.
 </i>
 
+
+</div>
+<!-- ANIMATED DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
